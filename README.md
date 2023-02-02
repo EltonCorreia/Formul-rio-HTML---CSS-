@@ -1,3 +1,3 @@
-Primeiro formulário feito com HTML e CSS seguindo o vídeo da Rafaella Ballerini.
+# Primeiro formulário feito com HTML e CSS
 
-fiz algumas modificações no formulário e contém alguns erros de código, mas, sendo o primeiro, está até ok :/
+Formulário seguindo o tutorial da Rafaella Ballerini (https://www.youtube.com/watch?v=wwqOJ2o84S4), fiz algumas modificações no formulário e contém alguns erros de codificação, mas, é o primeiro né.
